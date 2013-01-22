@@ -1,7 +1,6 @@
-badapples
-=========
-
 The Bad Apples Repository
--Michael Rivera - http://mikeriv.com
--Natalie Gravier - http://nataliegravier.com
+======
+- Michael Rivera - http://mikeriv.com
+- Natalie Gravier - http://nataliegravier.com
+- 
 
